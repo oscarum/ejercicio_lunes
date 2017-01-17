@@ -1,0 +1,28 @@
+div{
+  background: black;
+  width: 100px;
+  height: 100px;
+  margin: 2px;
+  display: inline-block;
+  color: black
+}
+.azul:hover{
+  background: blue;
+  transition: background 1s;
+  color: white;
+}
+.amarillo:hover{
+  background: yellow;
+  transition: background 1s;
+  color: white;
+}
+.verde:hover{
+  background: green;
+  transition: background 1s;
+  color: white;
+}
+.gris:hover{
+  background: gray;
+  transition: background 1s;
+  color: white;
+}
